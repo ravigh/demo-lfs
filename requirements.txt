@@ -1,5 +1,5 @@
 nassl>=0.16.0,<0.17.0
 typing; python_version < '3.5'
 enum34; python_version < '3.4'
-cryptography==3.3.2
+cryptography==39.0.1
 tls-parser==1.0.0
